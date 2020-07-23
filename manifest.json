@@ -1,0 +1,7 @@
+{
+  "name": "Icon Finder",
+  "id": "868254012628558780",
+  "api": "1.0.0",
+  "main": "public/code.js",
+  "ui": "public/index.html"
+}
